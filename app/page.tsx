@@ -1,7 +1,7 @@
-import Banner  from "./components/Banner";
-import Courses from "./components/Courses";
-import Footer from "./components/Footer";
-import Header from "./components/Header";
+import Banner  from "./components/Banner.tsx";
+import Courses from "./components/Courses.tsx/index.js";
+import Footer from "./components/Footer.tsx/index.js";
+import Header from "./components/Header.tsx/index.js";
 
 
 export default function Home() {

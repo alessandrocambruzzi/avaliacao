@@ -1,7 +1,18 @@
-import Image from 'next/image'
+import Banner  from "./components/Banner";
+import Courses from "./components/Courses";
+import Footer from "./components/Footer";
+import Header from "./components/Header";
+
 
 export default function Home() {
   return (
-    <h1>hello world</h1>
+    <>
+      <Header />
+      <Banner />
+      <Courses />
+      <Footer />
+
+    </>
+
   )
 }

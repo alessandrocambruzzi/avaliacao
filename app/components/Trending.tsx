@@ -1,3 +1,5 @@
+import Image from 'next/image';
+
 export default function categories() {
     return (
       <div className="flex flex-col items-center py-20 gap-8 w-390 max-w-1400 h-1273.5 min-h-650 bg-[#F4E5EC] rounded-b-16">

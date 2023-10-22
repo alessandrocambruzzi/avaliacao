@@ -1,3 +1,5 @@
+import Image from 'next/image';
+
 import { Kaushan_Script } from 'next/font/google'
 
 const kaushan = Kaushan_Script({

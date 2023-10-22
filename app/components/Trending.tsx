@@ -1,6 +1,4 @@
-import Image from 'next/image';
-
-export default function categories() {
+export default function trending() {
     return (
       <div className="flex flex-col items-center py-20 gap-8 w-390 max-w-1400 h-1273.5 min-h-650 bg-[#F4E5EC] rounded-b-16">
         <h2 className="text-32 font-playfair font-extrabold text-center text-[#0F172A] w-225 h-43">Trending Products</h2>

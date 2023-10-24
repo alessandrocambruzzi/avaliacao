@@ -8,7 +8,7 @@ export default function Banner() {
       <div className="w-full lg:flex lg:justify-between lg:items-center">
         <div className="lg:w-1/2">
           <h1 className="w-297 max-w-358 h-107 font-playfair font-extrabold text-5xl leading-107 text-center text-[#0F172A]">
-            <span>Girl s</span>
+            <span>Girls</span>
             <br />
             <span>Fashion</span>
           </h1>

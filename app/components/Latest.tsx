@@ -46,7 +46,7 @@ export default function Latest() {
                 Power Dressing
               </p>
               <p className="font-playfair font-bold text-19 leading-26 text-center text-[#0F172A] mt-2">
-                Navigating the World of Women's Tailoring
+                Navigating the World of Womens Tailoring
               </p>
               <p className="font-poppins font-medium text-14 leading-22 text-[#64748B] text-center">
                 25th May 2023

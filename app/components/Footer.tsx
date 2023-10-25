@@ -21,7 +21,7 @@ export default function Footer() {
             </div>
             <div className="flex items-center">
               <img src="/img/phone.png" alt="Phone" className="mr-2" />
-              <p>(+012) 3456 789</p>
+              <p>+012 3456 789</p>
             </div>
           </div>
         </div>

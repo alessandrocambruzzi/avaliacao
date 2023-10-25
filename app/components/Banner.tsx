@@ -13,7 +13,7 @@ export default function Banner() {
             <span>Fashion</span>
           </h1>
           <p className="text-base font-poppins font-normal leading-24 text-center text-[#64748B] w-345 max-w-358 h-24 m-8">
-            Discover the latest trends and express your unique style with our Women s Fashion website. Explore a curated collection of clothing, accessories, and footwear that caters to every taste and occasion.
+            Discover the latest trends and express your unique style with our Womens Fashion website. Explore a curated collection of clothing, accessories, and footwear that caters to every taste and occasion.
           </p>
           <div className="text-center mt-4">
             <button className="bg-[#ED3849] text-white rounded-md py-2 px-4 text-sm">EXPLORE NOW</button>
